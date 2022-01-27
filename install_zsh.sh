@@ -1,5 +1,5 @@
 # inslall zsh
-sudo apt-get install zsh
+sudo apt-get -y install zsh
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 # set zsh default
 chsh -s $(which zsh)
