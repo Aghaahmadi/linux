@@ -1,0 +1,1 @@
+# inslall zsh
